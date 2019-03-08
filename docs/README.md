@@ -7,7 +7,12 @@ __Basic__
 ---
 __traffic__
 - __北京 - 济南__
-![train](./images/beijing_to_jinan.png "北京-济南")
+<!-- ![train](./images/beijing_to_jinan.png) -->
+<html>
+  <img src="./images/beijing_to_jinan.png" alt="北京 - 济南" style="width: 30%;" />
+</html>
 
 - __济南 - 北京__
-  __TODO__
+ (__TODO__) 
+
+
