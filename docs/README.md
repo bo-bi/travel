@@ -9,7 +9,7 @@ __traffic__
 - __北京 - 济南__
 <!-- ![train](./images/beijing_to_jinan.png) -->
 <html>
-  <img src="./images/beijing_to_jinan.png" alt="北京 - 济南" style="width: 300px;" />
+  <img src="./images/beijing_to_jinan.png" alt="北京 - 济南" style="display: block;width: 300px; margin: 10px auto;" />
 </html>
 
 - __济南 - 北京__
